@@ -1,0 +1,15 @@
+# 🧠 Design Overview – WordPress Blog
+
+This blog is being built using WordPress.com’s block editor. It is meant to serve as a personal or technical blog site.
+
+## Layout Plan
+- **Homepage**: Recent blog posts + featured post section
+- **Sidebar**: Category list, search bar, tag cloud
+- **Footer**: Contact form + social media links
+
+## Customizations
+- Color palette, font style
+- Post layout block alignment
+- Responsive preview optimization
+
+Further design enhancements will be added once the initial structure is live.
